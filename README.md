@@ -1,4 +1,6 @@
 unity-w4i
 =========
 
-Way point for iTween
+way point for iTween
+
+easy to insert and remove nodes, and easy to translate whole path.
